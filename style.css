@@ -1,0 +1,52 @@
+.body{
+    background-color: grey;
+    float:left;
+    width: 600px;
+    margin:100px;
+    border:rgb(191, 233, 127);
+    align-content: center;
+    display:flex;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0ch;
+    text-align-last: center;
+    text-decoration-line: underline;
+}
+
+.radiobut
+{
+    margin-left:50px;
+}
+.checked {
+    color: rgb(223, 108, 62);
+  }
+span{
+      font-size: 15px;
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  td, th {
+    border: 1px solid blue;
+    text-align: left;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  p{
+      font-weight: bolder;
+  }
+  .stars{
+    font-weight: bolder ;
+  }.top{
+      font-weight: bolder;
+  }
+
